@@ -5,14 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 import java.io.*;
 		public class MazeSolution {
-			//-----------------------------------------------------
-			//Title: Mazecode
-			// Author: Doða/Durmaz
-			// ID: 37969823142
-			// Section: 2
-			// Assignment: 1
-			// Description: This class tests the Finding a true way in a Maze 
-			//-----------------------------------------------------
+			
             public static ArrayList<String> ans = new ArrayList<>();
 		    public static void main(String[] args) throws Exception {
 		    
